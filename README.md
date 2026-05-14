@@ -14,6 +14,8 @@ This project analyzes Cyclistic's historical bike-share trip data to identify be
 - Using 369,000 trips across Q1 2021, this analysis found that casual riders take nearly twice as long per ride (17 min vs 9 min), are twice as active on weekends, and concentrate at a small number of lakefront stations
 - Patterns that collectively suggest a leisure-oriented user base that is underserved by current membership messaging.
 - These behavioral differences point to three high-confidence conversion opportunities: targeted lakefront marketing, weekend promotions, and leisure-focused membership messaging.
+
+  ---
  
 ## Business Context
  
