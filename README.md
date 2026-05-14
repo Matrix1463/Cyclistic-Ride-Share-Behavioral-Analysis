@@ -3,8 +3,17 @@
 **How do casual riders and annual members use Cyclistic differently — and how can that difference drive membership conversion?**
  
 This project analyzes Cyclistic's historical bike-share trip data to identify behavioral differences between casual riders and annual members. The findings are used to recommend targeted marketing strategies aimed at converting casual riders into annual members, with the goal of increasing long-term profitability.
+
+*Capstone project completed as part of the Google Data Analytics Professional Certificate — extended with independent analysis.*
  
 ---
+
+## Executive Summary
+
+- Cyclistic's most profitable growth lever isn't new customer acquisition — it's converting the casual riders already using the service.
+- Using 369,000 trips across Q1 2021, this analysis found that casual riders take nearly twice as long per ride (17 min vs 9 min), are twice as active on weekends, and concentrate at a small number of lakefront stations
+- Patterns that collectively suggest a leisure-oriented user base that is underserved by current membership messaging.
+- These behavioral differences point to three high-confidence conversion opportunities: targeted lakefront marketing, weekend promotions, and leisure-focused membership messaging.
  
 ## Business Context
  
@@ -115,7 +124,3 @@ cyclistic-ride-share-behavioral-analysis/
 └── tableau/
     └── dashboard_link.md           ← Link to published Tableau Public dashboard
 ```
- 
----
- 
-*This project was provided by the Google Data Analytics Professional Certificate as a capstone case study.*
